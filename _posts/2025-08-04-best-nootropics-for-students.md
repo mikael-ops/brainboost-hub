@@ -2,6 +2,7 @@
 layout: post
 title: "Best Nootropics for Students in 2025: Boost Focus, Memory & Energy"
 date: 2025-08-04
+permalink: /blog/best-nootropics-for-students/
 categories: [Nootropics, Reviews, Students]
 tags: [nootropics, students, productivity, focus, memory, supplements, review, 2025]
 author: Mikael
