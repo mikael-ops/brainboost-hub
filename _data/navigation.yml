@@ -1,9 +1,13 @@
 main:
   - title: "Home"
-    url: /
-
+    url: "/"
+  - title: "Reviews"
+    url: "/blog/"
+  - title: "Guides"
+    url: "/guides/"
   - title: "About"
-    url: /about/
-
-  - title: "Disclosure"
-    url: /affiliate-disclosure/
+    url: "/about/"
+  - title: "Affiliate Disclosure"
+    url: "/affiliate-disclosure/"
+  - title: "Contact"
+    url: "/contact/"
