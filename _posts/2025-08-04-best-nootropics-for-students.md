@@ -1,8 +1,15 @@
-{% raw %}
 ---
 title: "Best Budget Nootropics for Students (2025)"
+excerpt: "Affordable and effective study stacks that won't break the bank."
 date: 2025-08-04
-layout: post
+categories:
+  - Guides
+tags:
+  - nootropics
+  - students
+  - budget
+layout: single
+author_profile: true
 ---
 
 Are you tired of feeling foggy during exams or long study nights? This list covers the best nootropics that actually help — without draining your wallet.
@@ -23,4 +30,3 @@ Supports long-term brain health and focus.
 Supports neurogenesis and brain clarity.
 
 These can be found on Amazon, iHerb, and Nootropics Depot. Links in the review section.
-{% endraw %}
