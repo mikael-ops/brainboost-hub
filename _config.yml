@@ -3,6 +3,7 @@ description: "Affordable nootropics and cognitive enhancers for students and cre
 repository: mikael-ops/brainboost-hub
 url: "https://mikael-ops.github.io"
 baseurl: "/brainboost-hub"
+permalink: /blog/:title/
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes"
